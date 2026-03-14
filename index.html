@@ -40,8 +40,10 @@
     </style>
   </head>
   <body class="inter bg-black text-white items-center">
-    <header class="container mx-auto py-2">
-      <nav class="px-2">
+    <header class="container mx-auto pt-1 px-2 md:px-0">
+      <nav
+        class="px-2 border border-gray-500 rounded-2xl py-4 shadow-sm mb-2 shadow-gray-50"
+      >
         <div class="flex justify-between">
           <div>
             <i
@@ -109,6 +111,23 @@
           </div>
         </div>
       </nav>
+      <div
+        class="relative bg-[url('./Assets/Images/bg.png')] bg-no-repeat bg-center bg-cover py-5"
+      >
+        <!-- Black overlay -->
+        <div class="absolute inset-0 bg-black/60"></div>
+
+        <!-- Content -->
+        <div
+          class="relative z-10 text-white flex items-center justify-center h-full"
+        >
+          <h1
+            class="text-center text-[80px] md:text-[120px] lg:text-[160px] tracking-tight leading-[90px] md:leading-[130px] py-5 font-medium"
+          >
+            Krate design and motion studio
+          </h1>
+        </div>
+      </div>
     </header>
   </body>
 </html>
