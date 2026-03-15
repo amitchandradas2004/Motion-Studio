@@ -6,7 +6,7 @@ A modern and visually engaging **Design & Motion Studio landing page** built wit
 
 Krate is a studio website concept designed to highlight creative work, services, and team members while maintaining a sleek and modern aesthetic. The design emphasizes strong visuals, smooth layouts, and a minimal interface to create a premium digital experience.
 
-## 📸 [Live Preview]()
+## 📸 [Live Preview](https://amitchandradas2004.github.io/Motion-Studio/)
 
 ## ✨ Features
 
